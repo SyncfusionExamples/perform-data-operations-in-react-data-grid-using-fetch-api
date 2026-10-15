@@ -1,0 +1,2 @@
+# perform-data-operations-in-react-data-grid-using-fetch-api
+A quick-start project that shows how to perform server-side data operations in the Syncfusion React Data Grid using the Fetch API. This project contains the code to integrate the Data Grid with an Express.js backend, process paging, sorting, filtering, and searching on the server, and handle data requests through the dataStateChange event. 
