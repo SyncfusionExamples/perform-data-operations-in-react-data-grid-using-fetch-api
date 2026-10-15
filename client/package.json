@@ -1,0 +1,29 @@
+{
+  "name": "hospital-patient-client",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React TypeScript frontend with Syncfusion EJ2 DataGrid",
+  "dependencies": {
+    "@syncfusion/ej2-base": "*",
+    "@syncfusion/ej2-data": "*",
+    "@syncfusion/ej2-material3-theme": "*",
+    "@syncfusion/ej2-react-dropdowns": "*",
+    "@syncfusion/ej2-react-grids": "*",
+    "@syncfusion/ej2-react-popups": "*",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.3.3",
+    "vite": ">=6.4.2"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  }
+}
